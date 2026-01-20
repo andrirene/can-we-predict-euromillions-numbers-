@@ -44,7 +44,7 @@ construites à partir des propriétés mathématiques des numéros :
 
 ## Auteures
 ANDE Irene  
-KADDAR Halima  
 
-Master 1 – Économie appliquée  
+
+Master 1 – Ingénierie de données et Evaluation Econométrique   
 Université d’Angers (2024–2025)
